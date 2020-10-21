@@ -10,7 +10,7 @@ public class Lec6_CheckNumSeq {
         int curr;
         boolean ans = true;
         
-        for (int i = 1; i<=n; i++){
+        for (int i = 1; i<n; i++){
             curr = s.nextInt();
             
             if (curr-prev==0){
