@@ -1,4 +1,3 @@
-
 public class Lec6_Bitwise {
 
 	public static void main(String[] args) {
