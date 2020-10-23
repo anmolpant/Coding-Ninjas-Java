@@ -23,6 +23,9 @@ public class Lec7_NcR {
 	}
 	
 	public static void printTillN(int n) {
+		if (n<=0) {
+			return;
+		}
 		for (int i=1; i<=n;i++) {
 			System.out.println(i);
 		}
