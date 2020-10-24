@@ -12,7 +12,7 @@
 <img src="https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/assets/CNLOGO.svg" alt="CN"/>
 </p>
 
-![Generic badge](https://img.shields.io/badge/Java-orange)
+![Generic badge](https://img.shields.io/badge/Coding-Ninjas-Java-orange)
 
 ## Top Language
 
