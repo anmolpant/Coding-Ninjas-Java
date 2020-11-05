@@ -32,6 +32,10 @@ Contributions are what make the open source community such an amazing place to l
 
 **MIT &copy; [Anmol Pant](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
 
+## Certificates
+
+1. **Certificate; [Introduction to Java](http://files.codingninjas.in/certificate119274112587a5d9b820e51e41dddb09a0b9a3d.pdf)**
+
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
 </div>
