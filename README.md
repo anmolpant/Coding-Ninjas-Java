@@ -30,7 +30,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## License
 
-**MIT &copy; [Anmol Pant](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
+**GNU General Public License v3.0 &copy; [Anmol Pant](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
 
 ## Certificates
 
