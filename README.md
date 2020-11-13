@@ -35,6 +35,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Certificates
 
 1. **Certificate 1: [Introduction to Java](http://files.codingninjas.in/certificate119274112587a5d9b820e51e41dddb09a0b9a3d.pdf)**
+2. **Certificate 2: [Introduction to Java Certificate of Excellence](http://files.codingninjas.in/certificate1192741f4116dd26bea4a79c793cdffd450b70a.pdf)**
 
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
