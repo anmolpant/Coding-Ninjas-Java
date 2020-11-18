@@ -22,6 +22,9 @@ public class StudentUse {
 		//s2.rollNumber = 333;
 		s1.print();
 		s2.print();
+//		System.out.println(s1.numStudents);
+//		System.out.println(s2.numStudents);
+		System.out.println(Student.getNumStudents());
 		
 //		System.out.println(s1.name);
 //		System.out.println(s2.name);
