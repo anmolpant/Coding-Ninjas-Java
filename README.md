@@ -28,14 +28,19 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## Status
 
-**GNU General Public License v3.0 &copy; [Anmol Pant](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
+1. **Course 1: [Introduction to Java](https://www.codingninjas.com/courses/online-java-course)** - Completed
+2. **Certificate 2: [Data Structures and Algorithms in Java](https://www.codingninjas.com/courses/online-java-course)** - In Progress
 
 ## Certificates
 
 1. **Certificate 1: [Introduction to Java](http://files.codingninjas.in/certificate119274112587a5d9b820e51e41dddb09a0b9a3d.pdf)**
 2. **Certificate 2: [Introduction to Java Certificate of Excellence](http://files.codingninjas.in/certificate1192741f4116dd26bea4a79c793cdffd450b70a.pdf)**
+
+## License
+
+**GNU General Public License v3.0 &copy; [Anmol Pant](https://github.com/anmolpant/Coding-Ninjas-Java/blob/master/LICENSE)**
 
 <div align="center">
   <b>Please do ⭐ this repo, if you liked my work.</b>
