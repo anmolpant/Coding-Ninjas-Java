@@ -31,7 +31,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Status
 
 1. **Course 1: [Introduction to Java](https://www.codingninjas.com/courses/online-java-course)** - Completed
-2. **Course 2: [Data Structures and Algorithms in Java](https://www.codingninjas.com/courses/online-java-course)** - In Progress
+2. **Course 2: [Data Structures and Algorithms in Java](https://www.codingninjas.com/courses/online-java-course)** - In Progress (Level 2)
 
 ## Certificates
 
