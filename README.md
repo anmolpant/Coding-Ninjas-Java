@@ -1,4 +1,4 @@
-<code>
+<code><br>
   <h1 align="center">Coding Ninjas Java</h1>
 </code>
 
